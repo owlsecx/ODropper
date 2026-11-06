@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ODropper
+Comment=Stager/dropper analyzer — stages, decode, sandbox-evasion markers
+Exec=ODropper
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OAttack;
